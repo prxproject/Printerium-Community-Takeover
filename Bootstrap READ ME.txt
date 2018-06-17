@@ -1,0 +1,15 @@
+Download the BOOTSTRAP.DAT (the current bootstrap is more than Github required size, hence, download from the cloud) and PRINTERIUM.CONF files
+
+Bootstrap download link: https://mega.nz/#!jzBzxIDT!c1BgUp2buhPkC3LUKjx3UVrS_nktaRryGOVgG2N0ph4
+
+
+Run the wallet.
+Go to start, type %appdata%\printerium and press the enter key. You will then be in a folder with the Printerium app-data. 
+Back-up your WALLET.DAT file (You may copy the file to another safe location). DO NOT DELETE the WALLET.DAT file
+Remove all other files from the Printerium app-data folder except the WALLET.DAT file. Place the bootstrap.dat file and printerium.conf files  
+Restart your wallet, wait for the bootstrap to import the blockchain.
+
+
+
+
+
