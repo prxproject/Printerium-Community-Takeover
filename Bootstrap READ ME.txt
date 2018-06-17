@@ -1,6 +1,4 @@
-Download the BOOTSTRAP.DAT (the current bootstrap is more than Github required size, hence, download from the cloud) and PRINTERIUM.CONF files
-
-Bootstrap download link: https://mega.nz/#!jzBzxIDT!c1BgUp2buhPkC3LUKjx3UVrS_nktaRryGOVgG2N0ph4
+Download the BOOTSTRAP.DAT (https://mega.nz/#!jzBzxIDT!c1BgUp2buhPkC3LUKjx3UVrS_nktaRryGOVgG2N0ph4) . The current bootstrap is more than Github 100MB required size, hence, the download from the cloud 
 
 
 Run the wallet.
