@@ -27,10 +27,9 @@ Explorer 1:		https://chainz.cryptoid.info/prx/
 Explorer 2:		https://www.blockexperts.com/prx
 
 
-Exchanges
+Exchange:
 Coinexchange:	https://www.coinexchange.io/market/PRX/BTC
-Yobit:			https://www.yobit.io/en/trade/PRX/BTC
-Tradesatoshi:	https://tradesatoshi.com/Exchange/?market=PRX_BTC
+
 
 Development process
 ===========================
