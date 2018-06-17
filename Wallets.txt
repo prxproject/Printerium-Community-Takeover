@@ -6,3 +6,11 @@ Printerium BOOTSTRAP.DAT file: https://mega.nz/#!jzBzxIDT!c1BgUp2buhPkC3LUKjx3UV
 
 Printerium.CONF file: https://mega.nz/#!uyx0gADK!hx_QiwUdTqzf1Z2Vw4ZoBVeCAy7AX-2HRTxLoo6wSXU
 
+
+
+Run the wallet.
+Go to start, type %appdata%\printerium and press the enter key. You will then be in a folder with the Printerium app-data. 
+Back-up your WALLET.DAT file (You may copy the file to another safe location). DO NOT DELETE the WALLET.DAT file
+Remove all other files from the Printerium app-data folder except the WALLET.DAT file. Place the bootstrap.dat file and the printerium.conf file. ie, three files in the folder (bootstrap.dat, printerium.conf and wallet.dat). Close the folder
+Restart your wallet, wait for the bootstrap to import the blockchain. (This could take hours, be patient)
+
