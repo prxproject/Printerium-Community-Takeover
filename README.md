@@ -9,7 +9,7 @@ Time blocks: 60 sec.
 
 Block reward: 100
 
-POW: 200 000 blocks 
+POW: 200,000 blocks 
 
 Total coins: 20,000,000 
 
