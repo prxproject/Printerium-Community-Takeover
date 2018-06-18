@@ -1,6 +1,8 @@
 
 Printerium development tree
 
+
+
 SPECIFICATIONS
 
 Scrypt PoW/PoS hybrid based cryptocurrency
