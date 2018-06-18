@@ -19,11 +19,17 @@ Transaction confirmations	6 blocks
 Premine 11% 
 
 Website:		http://printeriumproject.com/
+
 Twitter:		https://twitter.com/PRXcoin
+
 Telegram:		https://t.me/printeriumproject
+
 Discord:		https://discordapp.com/invite/UP9F287
+
 Bitcoin Talk:	https://bitcointalk.org/index.php?topic=2995978
+
 Explorer 1:		https://chainz.cryptoid.info/prx/
+
 Explorer 2:		https://www.blockexperts.com/prx
 
 
